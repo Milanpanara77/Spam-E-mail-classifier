@@ -129,13 +129,6 @@ Prediction: spam
 - Use a **larger real-world dataset** like the UCI SMS Spam Collection.
 - Add **confusion matrix** and **classification report** for deeper evaluation.
 
----
-
-## 📚 References
-
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-- [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 ---
 
