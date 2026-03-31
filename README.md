@@ -139,11 +139,10 @@ Prediction: spam
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Submitted by:
 
-**AIML Project — Spam Email Classifier**  
-Built using Python and Scikit-learn as part of an Artificial Intelligence & Machine Learning course.
+-Milan Panara
+-25BAI10042
 
 ---
 
-> ⭐ If you found this project helpful, consider starring the repository!
